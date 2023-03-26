@@ -12,8 +12,7 @@
 ```
 django-admin startproject <project_name>
 python3 manage.py runserver <host>:<port> \--settings=<mysite.settings>
-python3 manage.py runserver // runs server with host=127.0.0.1, 
-port=8000 and default settings
+python3 manage.py runserver // runs server with host=127.0.0.1, port=8000 and default settings
 ```
 ## Create django application
 + `python3 manage.py startapp <app_name>`
