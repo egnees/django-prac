@@ -1,12 +1,12 @@
 # Django cheat sheet
 
 ## Virtual enviroment installation
-+ Go the application root folder and run `python3 -m venv venv`
-+ Then run `source venv/bin/activate`
++ Go the application root folder and run ```python3 -m venv venv```
++ Then run ```source venv/bin/activate```
 + To deactivate type `deactivate`
 
 ## Django installation via pip3
-```pip3 install "Django==3.0.*"```
++ ```pip3 install "Django==3.0.*"```
 
 ## Start project and run server
 ```
